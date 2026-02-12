@@ -1,0 +1,2 @@
+Data sourced from Inside Airbnb, reflecting listings as of September, 2025. 
+https://insideairbnb.com/get-the-data/
