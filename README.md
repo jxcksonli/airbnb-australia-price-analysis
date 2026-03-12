@@ -12,7 +12,7 @@ This project aims to use exploratory data analysis (EDA),  data visualisations a
 ## Limitations
 - Listing photos, descriptions or host responsiveness were missing from the dataset but may have been meaningful drivers of performance
 - Seasonality is not accounted for in the dataset
-- As actual booking data is private to Airbnb, estimated revenue is a modelled figure calculated by Inside Airbnb using listing price and estimated occupancy. As such, findings around revenue should be interpreted as indicative rather than exact.
+- Estimated revenue is a modelled figure calculated by Inside Airbnb using listing price and estimated occupancy (as actual booking data is private to Airbnb). As such, findings around revenue should be interpreted as indicative rather than exact.
 
 ## Data
 Inside Airbnb (June, 2025) - https://insideairbnb.com/get-the-data/
